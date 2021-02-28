@@ -160,6 +160,11 @@ This is a paragraph.
 1. **bold** goes here
 ```
 
+```javascript
+let i = 666
+console.log(i)
+```
+
 Paragraph:
 
     Code
