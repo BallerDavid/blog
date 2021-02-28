@@ -161,7 +161,7 @@ This is a paragraph.
 ```
 
 ```javascript
-let i = 666
+const i = 123
 console.log(i)
 ```
 
