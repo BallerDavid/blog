@@ -103,7 +103,7 @@ h5,
 h6 {
   font-family: var(--font-heading);
   margin-top: var(--spacing-12);
-  margin-bottom: var(--spacing-6);
+  margin-bottom: var(--spacing-12);
   line-height: var(--lineHeight-tight);
   letter-spacing: -0.025em;
 }
@@ -141,6 +141,7 @@ h5 {
 
 h6 {
   font-size: var(--fontSize-1);
+  margin-bottom: var(--spacing-0);
 }
 
 h1 > a {
@@ -163,12 +164,13 @@ p {
   line-height: var(--lineHeight-relaxed);
   --baseline-multiplier: 0.179;
   --x-height-multiplier: 0.35;
-  margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);
+  margin: var(--spacing-8) var(--spacing-0) var(--spacing-0) var(--spacing-0);
   padding: var(--spacing-0);
 }
 
 ul,
 ol {
+  margin-top: var(--spacing-0);
   margin-left: var(--spacing-0);
   margin-right: var(--spacing-0);
   padding: var(--spacing-0);
