@@ -1,5 +1,5 @@
 ---
-title: The Slot Machine Paradigm
+title: How Variable Ratio Reinforcement Hurts Novice Programmers
 date: "2021-03-03 21:57:44"
 description: Novice programmers beware! Variable ratio reinforcement schedules can damage your development!
 ---
